@@ -22,7 +22,7 @@ import java.util.Random;
 // {K1:V1,K2:V2}   // fastjson / gson如何解析json？
     // https://blog.csdn.net/z19980115/article/details/52005325?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
    // 从json拿数据，你把数据写入json，创建json对象
-    // 关于日志级别的划分：
+    // 关于日志级别的划分： 修改
     // https://zhuanlan.zhihu.com/p/63810820
 
     // 企业里面常用的日志相关的框架 :
